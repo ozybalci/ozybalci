@@ -1,8 +1,8 @@
-💻 I'm currently working at CASMarine underwater ROV/AUV development and project team.
+💻 I have worked and developed myself at CASMarine underwater ROV/AUV development and project team.
 
 👨🏻‍💻 My present field is embedded system programming with C language. I'm coding the STM32 processor-based electronic cards according to their purposes.
 
-📈 I develop my skills mainly in C programming language due to my position in the project team.
+📈 I develop my skills mainly in the C programming language and also in the Python language.
 
 ⭐ My personal abilities are: 
 
